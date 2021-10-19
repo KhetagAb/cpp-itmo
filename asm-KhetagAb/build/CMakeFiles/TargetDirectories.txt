@@ -1,0 +1,6 @@
+/mnt/c/Users/dzkhe/Desktop/C++/asm-KhetagAb/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/dzkhe/Desktop/C++/asm-KhetagAb/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/dzkhe/Desktop/C++/asm-KhetagAb/build/CMakeFiles/mul.dir
+/mnt/c/Users/dzkhe/Desktop/C++/asm-KhetagAb/build/CMakeFiles/sub.dir
+/mnt/c/Users/dzkhe/Desktop/C++/asm-KhetagAb/build/CMakeFiles/add.dir
+/mnt/c/Users/dzkhe/Desktop/C++/asm-KhetagAb/build/CMakeFiles/hello.dir
